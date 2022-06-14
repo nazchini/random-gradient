@@ -1,7 +1,7 @@
 {
   "name": "random-gradient",
   "version": "1.0.0",
-  "description": "Generate random beautiful gradients",
+  "description": "Generate beautiful linear gradients with randomly generated hex color values",
   "main": "index.js",
   "scripts": {
     "test": "jest"

@@ -21,6 +21,8 @@ function generateRandomGradient() {
     "#" +
     createRandomHex() +
     ")";
+
+  return gradient;
 }
 
 module.exports = generateRandomGradient;

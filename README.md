@@ -1,6 +1,7 @@
 # random-gradient-generator 🎨
 
-Generate beautiful gradients with randomly generated hex values.
+Generate beautiful linear gradients with randomly generated hex values.
+No dependencies!
 
 ## Installation
 
