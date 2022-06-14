@@ -6,6 +6,10 @@
   "scripts": {
     "test": "jest"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nazchini/random-gradient"
+  },
   "keywords": [
     "color",
     "gradient",
@@ -15,6 +19,10 @@
   ],
   "author": "Nazneen Oomatia",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nazchini/random-gradient/issues"
+  },
+  "homepage": "https://github.com/nazchini/random-gradient#readme",
   "devDependencies": {
     "jest": "^28.1.1"
   }
