@@ -1,0 +1,1 @@
+const generateRandomGradient = require("./index");

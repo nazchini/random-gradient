@@ -1,0 +1,21 @@
+{
+  "name": "random-gradient",
+  "version": "1.0.0",
+  "description": "Generate random beautiful gradients",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "color",
+    "gradient",
+    "hex",
+    "random",
+    "npm"
+  ],
+  "author": "Nazneen Oomatia",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^28.1.1"
+  }
+}
