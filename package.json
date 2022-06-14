@@ -1,5 +1,5 @@
 {
-  "name": "random-gradient",
+  "name": "generate-random-gradient",
   "version": "1.0.0",
   "description": "Generate beautiful linear gradients with randomly generated hex color values",
   "main": "index.js",

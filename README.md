@@ -6,13 +6,13 @@ No dependencies!
 ## Installation
 
 ```bash
-npm install --save random-gradient
+npm install --save generate-random-gradient
 ```
 
 ## Usage
 
 ```javascript
-var gradient = require("random-gradient");
+var gradient = require("generate-random-gradient");
 
 generateRandomGradient(); // => 'linear-gradient(29deg, #a2075c, #a0e60e)'
 generateRandomGradient(); // => 'linear-gradient(256deg, #9783fd, #e3b03e)'
